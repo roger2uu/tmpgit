@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/103/trunk/localproxy
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/103/trunk/localproxy/common.py
+END
+gui.pyw
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/73/trunk/localproxy/gui.pyw
+END
+mainform.ui
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/localproxy/mainform.ui
+END
+proxy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/102/trunk/localproxy/proxy.conf
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/103/trunk/localproxy/setup.py
+END
+proxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/103/trunk/localproxy/proxy.py
+END
+mainform_ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/58/trunk/localproxy/mainform_ui.py
+END

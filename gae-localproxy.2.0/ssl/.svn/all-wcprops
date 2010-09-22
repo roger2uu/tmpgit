@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/103/trunk/localproxy/ssl
+END
+LocalProxyServer.cert
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/103/trunk/localproxy/ssl/LocalProxyServer.cert
+END
+root.p12
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/103/trunk/localproxy/ssl/root.p12
+END
+LocalProxyServer.key
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/103/trunk/localproxy/ssl/LocalProxyServer.key
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/63/trunk/localproxy/service
+END
+srvany.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/localproxy/service/srvany.exe
+END
+query.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/63/trunk/localproxy/service/query.bat
+END
+install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/59/trunk/localproxy/service/install.bat
+END
+uninstall.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/59/trunk/localproxy/service/uninstall.bat
+END
