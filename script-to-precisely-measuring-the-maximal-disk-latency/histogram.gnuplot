@@ -9,7 +9,7 @@ set style data points
 set key top right
 set style fill solid
 set title "Statistics Histogram"
-set time
+set time  "%Y-%m-%d-%H:%M:%S"					# help timefmt
 
 stats datafile using 1 name "A" 				# REF[1]
 n=20 # the number of bins
